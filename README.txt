@@ -6,4 +6,4 @@ Algoritmus generuje plochu tak, aby hrany sousedních dílků odpovídaly, náho
 Pokud dojde k situaci, že nelze umístit další dílek, algoritmus se vrací a mění umístění dříve umístěných dílků.
 První dílek je vybrán náhodně, další pomocí algoritmu prohledávání do šířky.
 Další podrobnosti jsou popsány v komentářích kódu.
-
+Soubor test.py obsahuje ukázky algoritmu. 
